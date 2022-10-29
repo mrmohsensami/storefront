@@ -43,6 +43,8 @@ INSTALLED_APPS = [
 
     # local app
     'playground',
+    'store',
+    'tags',
 ]
 
 MIDDLEWARE = [
